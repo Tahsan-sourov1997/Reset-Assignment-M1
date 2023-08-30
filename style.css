@@ -1,0 +1,189 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  display: flex;
+  align-items: center;
+  background: rgba(229, 84, 115, 0.1);
+}
+.header-part {
+  margin-left: 160px;
+}
+.header-tittle {
+  font-size: 80px;
+}
+.header-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+button {
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
+}
+.flower-tittle {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.flower-description {
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+.image-1 {
+  width: 310px;
+  height: 428px;
+  background: rgba(167, 33, 98, 0.15);
+  margin-right: 24px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.image-2 {
+  width: 310px;
+  height: 428px;
+  background-color: rgba(5, 151, 160, 0.15);
+  margin-right: 24px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.image-3 {
+  width: 310px;
+  height: 428px;
+  background-color: rgba(71, 125, 17, 0.15);
+  margin-right: 24px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+}
+.fig1 {
+  width: 220px;
+  height: 10px;
+  padding: 30px 30px 30px 30px;
+}
+.fig-2 {
+  width: 220px;
+  padding: 90px 0px 0px 40px;
+}
+.fig-3 {
+  width: 220px;
+  padding: 10px 0px 0px 43px;
+}
+.third-part {
+  margin-top: 200px;
+}
+.middle-part {
+  width: 1440px;
+  height: 200px;
+  background-color: rgba(39, 39, 39, 0.05);
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 80px;
+  margin-bottom: 170px;
+  border-radius: 10px;
+}
+.middle-caption {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 20px;
+}
+.discount-main {
+  width: 100%;
+  height: 430px;
+  background: rgba(229, 84, 115, 0.05);
+  /* margin-bottom: 120px; */
+}
+.discount {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.discout-heading {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+.discount-off {
+  color: #e55473;
+}
+.discount-details {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.feature-align {
+  text-align: center;
+}
+.social-part {
+  display: flex;
+  margin-bottom: 128px;
+}
+.social-img2 {
+  margin-left: 10px;
+}
+.social-img3 {
+  margin-left: 10px;
+}
+.social-img4 {
+  margin-left: 10px;
+}
+
+.social-img {
+  width: 330px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.deal-site {
+  width: 100%;
+  height: 449px;
+  background-image: url("Flower\ Asset/Rectangle 9.png");
+  background-repeat: no-repeat;
+}
+.deal-title {
+  text-align: center;
+  padding-top: 70px;
+}
+.deal-description {
+  text-align: center;
+}
+.input-align {
+  text-align: center;
+}
+input {
+  padding: 16px 220px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 10px;
+}
+footer {
+  width: 100%;
+  height: 400px;
+  background: #111010;
+  margin-top: 120px;
+}
+.footer-details {
+  text-align: center;
+  color: aliceblue;
+  padding: 128px;
+}
+.footer-title {
+  font-size: 48px;
+  margin-bottom: 24px;
+  font-weight: 800;
+}
+.footer-data {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.footer-title-span {
+  color: #e55473;
+}
